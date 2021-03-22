@@ -3,7 +3,7 @@ def add(x,y):
     retun x+y
 #sUBTRACT IMPLEMENTATION
 def subtract(x,y):
-    pass
+    return x-y
 #MULTIPLY IMPLEMENTATION
 def multiply(x,y):
     pass
