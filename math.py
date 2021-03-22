@@ -1,6 +1,6 @@
 #ADD IMPLEMENTATION
 def add(x,y):
-    pass
+    retun x+y
 #sUBTRACT IMPLEMENTATION
 def subtract(x,y):
     pass
