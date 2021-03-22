@@ -16,3 +16,7 @@ def multiply(x,y):
 #DIVIDE IMPLEMENTATION
 def divide(x,y):
     return x/y
+	
+#Square Implementation
+def square(x):
+   return x*x
