@@ -3,7 +3,10 @@ def add(x,y):
     retun x+y
 #sUBTRACT IMPLEMENTATION
 def subtract(x,y):
-    pass
+    if y>x:
+	 return NEGATIVE_VALUE_ERROR
+	else
+	 return x-y
 #MULTIPLY IMPLEMENTATION
 def multiply(x,y):
     pass
